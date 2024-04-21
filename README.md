@@ -1,1 +1,1 @@
-# 8-Weeks-SQL-Challenge---Case-Study1---Danny-s-Diner
+# 8-Weeks-SQL-Challenge
