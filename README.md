@@ -8,4 +8,5 @@ This repository includes solution for 8 case studies that I have solved using My
 + This skillset empowers me to approach problems with a data-driven perspective and unlock valuable information for better decision-making.
 
 [Case Study 1: Danny's Diner](https://github.com/snehapaherwar/Case-Study-1-Danny-s-Diner)
+
 [Case Study 2: Pizza Runner](https://github.com/snehapaherwar/Pizza-Runner-Case-Study)
